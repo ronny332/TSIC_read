@@ -1,0 +1,3 @@
+TSIC_read		KEYWORD1
+calc_celsius	KEYWORD2
+read_sensor		KEYWORD3
